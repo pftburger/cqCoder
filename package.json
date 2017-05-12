@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pftburger/qrCoder#readme",
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "qr-image": "^3.2.0"
   }
 }
