@@ -1,0 +1,22 @@
+{
+  "name": "qrcoder",
+  "version": "0.0.1",
+  "description": "QR code generator & MQTT based Retrival",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pftburger/qrCoder.git"
+  },
+  "author": "dMA, Theron Burger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pftburger/qrCoder/issues"
+  },
+  "homepage": "https://github.com/pftburger/qrCoder#readme",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
